@@ -1,5 +1,5 @@
 # Analyzing-Shop-Locations
-Finding the Perfect Location for a new Restaurant.
+Finding the Perfect Location for a new Restaurant in Hamburg.
 
 **Introduction**
 
