@@ -52,6 +52,3 @@ It is all about what is the customer interested in and how much time did he want
 Resources
 
 [1]https://www.homeday.de/de/preisatlas/hamburg/eimsbuetteler+chaussee+98,+20259?map_layer=standard&marketing_type=rent&property_type=apartment&embed&utm_medium=partner&utm_source=wohnungsboerse (last visited 13.04.2021).
-
-
-![image](https://user-images.githubusercontent.com/75427181/147571874-fe813b74-65f4-41db-a377-7fe28fef5ad0.png)
