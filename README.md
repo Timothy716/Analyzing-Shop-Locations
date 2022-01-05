@@ -12,6 +12,7 @@ The used come from the Foursquare database. This database provides a variety of 
 The following figure shows a first overview of the city. The only information that the investor has to give is a starting point and the radius around this point. The starting point in this case is the central station in Hamburg. 
 
 ![image](https://user-images.githubusercontent.com/75427181/147578788-34b5288b-f9b3-4813-9340-9f22f35d828d.png)
+
 Figure 1: Overview 
 
 Those kinds of graphical presentation will be used to answer the question. It is simple to derive some insights by going over Figure 1.
@@ -30,6 +31,7 @@ In order to take a closer look at the rent price structure in this are the follo
 ![image](https://user-images.githubusercontent.com/75427181/147578869-d765d1b8-bac3-4a28-8e5a-c3c392aaf3fb.png)
 
 Figure 3: Rent index in Hamburg [1]
+
 It can be predicted that the cost increases the closer the estate is to the Alster. Besides from this fact the price structure seems to be the same. There are some expensive and a view middle- and low-class estates. 
 
 ## **Results**
